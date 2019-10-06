@@ -6,7 +6,7 @@ namespace DataSetFolderParser
     {
         static void Main(string[] args)
         {
-            FolderParser.ReadDataSet();
+            FolderParser.ParseDataSetToFolders();
         }
     }
 }
